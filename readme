@@ -1,0 +1,26 @@
+# Creación de una API desde cero
+
+Este repositorio contiene el código necesario para crear una API básica desde cero utilizando Node.js y Express.
+
+## Pasos para ejecutar la API
+
+1. **Crear el archivo `index.js`**: Este archivo servirá como punto de entrada para nuestra aplicación.
+
+2. **Verificar la instalación de npm**: Antes de comenzar, asegúrate de tener npm instalado en tu sistema ejecutando el comando `npm -v` en la terminal.
+
+3. **Inicializar el proyecto npm**: Utiliza el comando `npm init` en la terminal para inicializar el proyecto como un proyecto npm. Durante este proceso, se te solicitará que ingreses detalles como el nombre del paquete, la versión, la descripción, etc.
+
+4. **Instalar Express**: Ejecuta el comando `npm install express` para instalar Express, un marco de trabajo de Node.js que nos permitirá crear nuestra API de manera más eficiente.
+
+5. **Desarrollar la API**: Completa el código en el archivo `index.js` para definir las rutas y lógica de la API. Este archivo contendrá la configuración principal de nuestra aplicación.
+
+6. **Ejecutar la aplicación**: Utiliza el comando `node index.js` para iniciar el servidor y ver los resultados en el explorador accediendo a `localhost`.
+
+7. **Interactuar con la API**: Utiliza Postman u otra herramienta similar para interactuar con la API. Puedes enviar solicitudes POST, GET, DELETE, etc., según las rutas y métodos definidos en tu código.
+
+## Recursos adicionales
+
+- [Documentación de Express](https://expressjs.com/): Obtén más información sobre cómo utilizar Express para crear APIs en Node.js.
+- [Documentación de npm](https://docs.npmjs.com/): Aprende más sobre cómo administrar paquetes y proyectos con npm.
+
+¡Disfruta creando tu propia API desde cero y explorando las posibilidades que ofrece!
